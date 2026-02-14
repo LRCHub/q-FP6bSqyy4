@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "逆さ月 (Reverse Moon) feat. asmi",
+  "base_artist": "TAK",
+  "createdAt": "2026-02-14T14:26:49.031003Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "逆さ月",
+      "artist": "竹村こずえ",
+      "has_synced": false,
+      "path": "select/pl_01_逆さ月_竹村こずえ.txt"
+    }
+  ]
+}
